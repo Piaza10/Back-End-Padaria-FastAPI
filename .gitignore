@@ -1,0 +1,6 @@
+.env
+alembic.ini
+migrations/
+app/__pycache__/
+.vscode/
+poetry.lock
